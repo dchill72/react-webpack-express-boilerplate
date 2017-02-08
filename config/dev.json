@@ -1,0 +1,6 @@
+{
+  "publicPath": "http://localhost:7900",
+  "clientId": "9cbbef5c-524a-4ac2-ba33-1f8a836b3d95",
+  "clientSecret": "tMGZuM40YOLAlVj6krumpO8zVNN6wnB3HVcOz3hcgpQ=",
+  "appIdUri": "https://dchill.onmicrosoft.com/oidc-frontend"
+}
